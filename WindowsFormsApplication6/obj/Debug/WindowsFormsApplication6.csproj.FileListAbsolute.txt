@@ -1,0 +1,33 @@
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\demon\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.AssemblyReference.cache
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.contrastForm.resources
+D:\Downloads\drive-download-20221128T044244Z-001\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.multiLayerForm.resources
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.contrastForm.resources
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.multiLayerForm.resources
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Обрезка и яркость (C#)\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
